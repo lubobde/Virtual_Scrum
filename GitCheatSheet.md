@@ -1,4 +1,10 @@
-Dateien hinzufügen (alle im verzeichnis)
+Git-Repo von Github runter-kopieren:
+**git clone git://github.com/lubobde/Virtual_Scrum**
+
+Aktuellste Version vom Server holen:
+**git pull 
+
+Alle Dateien aus einem Verzeichnis zur Git-Beobachtung hinzufügen:
 
 **git add manuscript/**
 
